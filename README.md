@@ -4,11 +4,12 @@ Currículo em atualização constante com cursos, novas tecnologias aprendidas e
 ---- 
 <!--START_SECTION:table-->
 <details>
-<summary>Courses List</summary>
+<summary>EDUCAÇÃO, CERTIFICAÇÕES & CURSOS</summary>
 
 
 | Course | Place | Hours |
 | :---: | :---: | :---: |
+| Análise e Desenvolvimento de Sistemas | Estácio de Sá | 2022 - 2024 |
 | Python 3 | CursoemVideo - Gustavo Guanabara | +40h |
 | SQL com MySQL | Alura | 20h |
 | Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy - Nélio Alves | +50h |
