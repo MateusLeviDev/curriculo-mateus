@@ -9,13 +9,13 @@ Currículo em atualização constante com cursos, novas tecnologias aprendidas e
 
 | Course | Place | Hours |
 | :---: | :---: | :---: |
-| Forum internacional de Software Livre - Internet of Things | Porto Alegre-RS | 60 Hr |
-| SBESC - School of Embedded Systems - SBC | João Pessoa-PB | 60 Hr |
-| Empretec - Sebrae | Florianópolis-SC | 63 Hr |
-| The developers conference - Machine Learning / IOT - GlobalCode | Florianópolis-SC | 33 Hr |
-| Introduction to space technologies - INPE | São José dos Campos-SP | 126 Hr |
-| Application of Machine Learning Techniques Using R - IFSC | São José-SC | 3 Hr |
-| Matlab - IFSC | São José-SC | 66 Hr |
-| Hackathon NASA SpaceApps | Florianópolis-SC | 22Hr |
-| React Professional| Udemy | 21 Hr |
-| Spark AR| Meta official | 8 Hr |
+| Python 3 | CursoemVideo - Gustavo Guanabara | +40h |
+| SQL com MySQL | Alura | 20h |
+| Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy - Nélio Alves | +50h |
+| Backend with Java | FreeCodeAcademy | 10h |
+| Excel - Avançado | UDEMY | 12h |
+| Lógica e algoritmo de programação | Udemy | 10h |
+| Master in English course | CNA - São Paulo | +300h |
+| HTML5 & CSS3 MÓDULO 1 AO 3 | CursoEmVideo | 40h |
+| Microsserviços c/ Spring Cloud, Spring Boot e Docker | Udemy | 15h |
+| Integração Contínua com testes. Utilizando Jenkins | Udemy | 10h |
