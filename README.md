@@ -1,7 +1,8 @@
 # curriculo-mateus
 Currículo em atualização constante com cursos, novas tecnologias aprendidas e etc... 
 
-- <a href="https://bikcraft.website/">Projeto Bikcraft</a>
+- <a href="https://bikcraft.website/">Projeto Bikcraft</a> 
+- <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/">LinkedIn Mateus Levi Souza</a>
 
 ---- 
 <!--START_SECTION:table-->
