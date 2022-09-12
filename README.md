@@ -2,6 +2,7 @@
 Currículo em atualização constante. Incluindo cursos, novas tecnologias aprendidas e tudo acerca de minhas atualizações.  
 
 - <a href="https://bikcraft.website/">Projeto Bikcraft</a> 
+- <a href="https://dsmeta-levi.netlify.app/">Link Projeto SpringReact - dsmeta Levi</a> 
 - <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/">LinkedIn Mateus Levi Souza</a>
 
 ---- 
