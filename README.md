@@ -1,10 +1,13 @@
 # curriculo-mateus
 
 > Currículo em atualização constante. Incluindo cursos, novas tecnologias aprendidas e tudo acerca de minhas atualizações.  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white(mailto:mateuslevisouzapereira@gmail.com)"/>
+  </p>
 
 - <a href="https://bikcraft.website/">Projeto Bikcraft</a> 
 - <a href="https://dsmeta-levi.netlify.app/">Link Projeto SpringReact - dsmeta Levi</a> 
-- <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/">LinkedIn Mateus Levi Souza</a>
 
 ---- 
 <!--START_SECTION:table-->
