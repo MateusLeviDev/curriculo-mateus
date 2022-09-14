@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white(mailto:mateuslevisouzapereira@gmail.com)"/>
   </p>
 <br>
+
 > Currículo em atualização constante. Incluindo cursos, novas tecnologias aprendidas e tudo acerca de minhas atualizações.  
 
 - <a href="https://bikcraft.website/">Projeto Bikcraft</a> 
