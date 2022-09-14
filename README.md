@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white(mailto:mateuslevisouzapereira@gmail.com)"/>
+   <a href = "mailto:mateuslevisouzapereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white(mailto:mateuslevisouzapereira@gmail.com)"/></a>
   </p>
 <br>
 
