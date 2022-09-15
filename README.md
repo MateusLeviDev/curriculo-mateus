@@ -10,6 +10,7 @@
 
 - <a href="https://bikcraft.website/">Projeto Bikcraft</a> 
 - <a href="https://dsmeta-levi.netlify.app/">Link Projeto SpringReact - dsmeta Levi</a> 
+- <a href="https://drive.google.com/file/d/1JBKQnyB02q7j5mQOBVxpegIO4qxr2jmJ/view?usp=drivesdk">Currículo - Mateus Levi</a>
 
 ---- 
 <!--START_SECTION:table-->
