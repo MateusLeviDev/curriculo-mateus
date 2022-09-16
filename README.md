@@ -6,7 +6,7 @@
   </p>
 <br>
 
-> Currículo em atualização constante. Incluindo cursos, novas tecnologias aprendidas e tudo acerca de minhas atualizações.  
+> Currículo em atualização constante. Incluindo cursos, novas tecnologias aprendidas e tudo acerca de minhas atualizações profissionais.  
 
 - <a href="https://bikcraft.website/">Projeto Bikcraft</a> 
 - <a href="https://dsmeta-levi.netlify.app/">Link Projeto SpringReact - dsmeta Levi</a> 
